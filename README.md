@@ -1,5 +1,5 @@
-# Ubuntu
-Processo de Instalação do Ubuntu
+# Ubuntu Processo de Instalação
+
 
 Para instalar o Ubuntu em seu computador, siga os seguintes passos:
 
